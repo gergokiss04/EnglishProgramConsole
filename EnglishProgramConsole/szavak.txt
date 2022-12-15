@@ -1,0 +1,4 @@
+alma;apple
+narancs;orange
+piros;red
+igen;yes
